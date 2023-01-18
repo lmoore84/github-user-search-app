@@ -1,0 +1,25 @@
+{
+  "name": "github-user-search-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmoore84/github-user-search-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmoore84/github-user-search-app/issues"
+  },
+  "homepage": "https://github.com/lmoore84/github-user-search-app#readme",
+  "dependencies": {
+    "@octokit/rest": "^19.0.5",
+    "axios": "^1.2.2",
+    "react-prism": "^4.3.2"
+  }
+}
